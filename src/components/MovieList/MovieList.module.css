@@ -1,0 +1,25 @@
+.movieList {
+    list-style-type: none;
+    padding: 0;
+    margin: 20px 0;
+  }
+  
+  .movieItem {
+    margin-bottom: 8px;
+    padding: 8px 12px;
+    border-radius: 4px;
+  }
+  
+  .movieItem:hover {
+    background-color: rgba(1, 180, 228, 0.1);
+  }
+  
+  .movieLink {
+    color: #2d2525;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .movieLink:hover {
+    color: #01b4e4;
+  }

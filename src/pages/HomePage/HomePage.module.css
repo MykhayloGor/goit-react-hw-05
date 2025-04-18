@@ -1,0 +1,34 @@
+.homePage {
+    padding: 10px;
+  }
+  
+  .title {
+    margin-bottom: 15px;
+  }
+  
+  .loading, .noResults {
+    margin: 10px 0;
+  }
+  
+  .errorMessage {
+    color: red;
+    margin: 10px 0;
+  }
+  
+  .movieList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .movieItem {
+    margin-bottom: 5px;
+  }
+  
+  .movieLink {
+    color: inherit;
+    text-decoration: none;
+  }
+  
+  .movieLink:hover {
+    text-decoration: underline;
+  }

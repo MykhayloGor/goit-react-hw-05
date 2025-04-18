@@ -1,0 +1,26 @@
+.navigation {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .link {
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+    font-size: 18px;
+    padding: 5px 10px;
+    border-radius: 4px;
+  }
+  
+  .activeLink {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    font-size: 18px;
+    padding: 5px 10px;
+    background-color: #007bff;
+    border-radius: 4px;
+  }
